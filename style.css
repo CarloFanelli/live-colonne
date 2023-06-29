@@ -22,7 +22,9 @@
     width: calc(100%/3);
 }
 
-
+section{
+    margin-top: 3rem;
+}
 /* classe di debug per testare le colonne*/
 /*andra tolta poi prima di mandare il progetto */
 .debug .col {
