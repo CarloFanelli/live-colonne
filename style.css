@@ -11,13 +11,14 @@
 }
 
 .col {
+    text-align: center;
     float: left;
     width: calc(100%/3);
 }
 
 
 /* classe di debug per testare le colonne*/
-/*andra tolta poi prima di mandare il progetto*/
+/*andra tolta poi prima di mandare il progetto */
 .debug .col {
     height: 300px;
     background-color: red;
@@ -25,4 +26,5 @@
 
 img{
     max-width: 100%;
+    height: 200px;
 }
